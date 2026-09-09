@@ -1,6 +1,4 @@
-Haan yaar 😄 Tumne jo **current AI topics** bole the—**Agentic AI, Multimodal AI, RAG, Generative AI, LLMs, aur AI Agents**—un sabko ek hi **professional GitHub repository** mein explain kar sakti ho.
-
-# 🚀 Modern AI Technologies: Complete Guide
+ Modern AI Technologies: Complete Guide
 
 **Repository Name:** `Modern-AI-Technologies-Complete-Guide`
 
@@ -503,28 +501,3 @@ Agentic Decision and Planning
  ↓
 Final Response or Action
 ```
-
-### Example
-
-User:
-
-> "Analyze this sales report, compare it with previous data, and create a summary."
-
-The system could use:
-
-* **Multimodal AI** → Understand the report.
-* **RAG** → Retrieve previous company data.
-* **LLM** → Analyze and generate explanations.
-* **AI Agent** → Use required tools.
-* **Agentic AI** → Plan the complete workflow.
-
-🔥 **This is a very strong concept to upload on GitHub because it explains how modern AI technologies connect together, rather than explaining each technology separately.**
-
-Available next action: Create a downloadable DOCX file here in this chat containing the editable prose above
-
-[1]: https://thebiglearn.org/articles/en/generative-artificial-intelligence-comprehensive-guide/?utm_source=chatgpt.com "Generative Artificial Intelligence: Complete Guide to LLMs, RAG, and Agents | The Big Learn"
-[2]: https://www.gov.uk/government/publications/ai-insights/ai-insights-agentic-rag-html?utm_source=chatgpt.com "AI Insights: Agentic RAG (HTML) - GOV.UK"
-[3]: https://www.alphaxiv.org/abs/2502.08826?utm_source=chatgpt.com "Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation | alphaXiv"
-[4]: https://docs.aws.amazon.com/wellarchitected/latest/generative-ai-lens/agentic-ai.html?utm_source=chatgpt.com "Agentic AI - Generative AI Lens"
-[5]: https://link.springer.com/article/10.1007/s12559-026-10619-1?utm_source=chatgpt.com "From Language Models to Agentic AI: A Survey of Autonomous, Action-Enabled, and Collaborative LLM Agents | Cognitive Computation | Springer Nature Link"
-[6]: https://www.designveloper.com/blog/rag-vs-generative-ai-vs-agentic-ai/?utm_source=chatgpt.com "Generative AI, RAG vs Agentic AI: From Output To Action - Designveloper"
